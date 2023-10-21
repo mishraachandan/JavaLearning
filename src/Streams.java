@@ -19,5 +19,7 @@ public class Streams {
         List<Integer> oddList = integerList.stream().map(y -> y*y).filter(x-> x%2!=0).toList();
         oddList.forEach(System.out::println);
 
+        List<Integer> evenList = integerList.stream().map(y -> y*y).filter(x-> x%2==0).toList();
+        evenList.forEach(System.out::println);
     }
 }
