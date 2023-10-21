@@ -15,5 +15,9 @@ public class Streams {
         List<Integer> streamIntegerList = integerList.stream().filter(x -> x > 13).toList();
         streamIntegerList.forEach(System.out::println);
 
+        // trying to filter number on the basis of odd/even after their squares
+        List<Integer> oddList = integerList.stream().map(y -> y*y).filter(x-> x%2!=0).toList();
+        oddList.forEach(System.out::println);
+
     }
 }
