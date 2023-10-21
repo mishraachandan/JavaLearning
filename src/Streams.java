@@ -43,5 +43,10 @@ public class Streams {
 
         String lastElement = listOfStrings.stream().skip(listOfStrings.size() - 1).findFirst().get();
         System.out.println(lastElement);
+        String element = listOfStrings.stream().skip(3).toList().get(0);
+        String elementList = listOfStrings.stream().skip(3).toList().toString();
+        System.out.println(elementList);
+
+        //for dummy commit.
     }
 }
