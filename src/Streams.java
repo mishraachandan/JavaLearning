@@ -47,6 +47,6 @@ public class Streams {
         String elementList = listOfStrings.stream().skip(3).toList().toString();
         System.out.println(elementList);
 
-        //for dummy commit.
+        //for dummy commit
     }
 }
