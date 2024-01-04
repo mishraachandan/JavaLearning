@@ -1,0 +1,10 @@
+
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ªÊŠ˜8£…‹èÈ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(®‰¬şıÿÿÿÿ8¤…‹èÈ1
+i
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Ø™ã–8Îè–èÈ1
+]
+java:S1659"ADeclare "area" and all following declarations on a separate line.(ÛÛ‡8¨…‹èÈ1
+]	java:S125"<This block of commented-out lines of code should be removed.(í×Ù¡üÿÿÿÿ8©‡“èÈ1
+L	java:S106"+Replace this use of System.out by a logger.(‰Åÿşÿÿÿÿ8ª…‹èÈ1
+G	java:S106"+Replace this use of System.out by a logger.(£˜ñä8«…‹èÈ1

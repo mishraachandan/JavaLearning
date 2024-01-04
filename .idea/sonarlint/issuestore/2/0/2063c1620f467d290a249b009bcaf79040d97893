@@ -1,0 +1,12 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã¶Å8­ÅœİÉ1
+L	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8ºÅœİÉ1
+L	java:S106 "+Replace this use of System.out by a logger.(ÃµÉ®ıÿÿÿÿ8¼ÅœİÉ1
+L	java:S106#"+Replace this use of System.out by a logger.(ÃµÉ®ıÿÿÿÿ8¼ÅœİÉ1
+f
+java:S3358%"DExtract this nested ternary operation into an independent statement.(À­¦»úÿÿÿÿ8½ÅœİÉ1
+L	java:S106&"+Replace this use of System.out by a logger.(ÃµÉ®ıÿÿÿÿ8½ÅœİÉ1
+L	java:S106)"+Replace this use of System.out by a logger.(ÃµÉ®ıÿÿÿÿ8øİÉ1
+L	java:S106+"+Replace this use of System.out by a logger.(ŸÇíœÿÿÿÿÿ8ƒÄ¡İÉ1
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8¾ÅœİÉ1

@@ -1,0 +1,26 @@
+
+0
+java:S1220""Move this file to a named package.
+^
+java:S2184,"CCast one of the operands of this subtraction operation to a "long".(äÏ×ûÿÿÿÿ
+r
+java:S3655,"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(äÏ×ûÿÿÿÿ8º¤âüÉ1
+Q
+java:S1854";Remove this useless assignment to local variable "oddList".(ôµ¦¶
+[
+java:S1854"ERemove this useless assignment to local variable "streamIntegerList".(±‚—ó
+V
+java:S1854.";Remove this useless assignment to local variable "element".(àÉáâúÿÿÿÿ
+L
+java:S1481"6Remove this unused "streamIntegerList" local variable.(±‚—ó
+V	java:S125"<This block of commented-out lines of code should be removed.(ôšßüÿÿÿÿ
+B
+java:S1481",Remove this unused "oddList" local variable.(ôµ¦¶
+Q	java:S125"<This block of commented-out lines of code should be removed.(âİÓ¬
+E	java:S106"+Replace this use of System.out by a logger.(ä·‹Öüÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(ç˜ïÈ
+@	java:S106""+Replace this use of System.out by a logger.(‚¸¥Æ
+@	java:S106-"+Replace this use of System.out by a logger.(€ÂÑĞ
+G
+java:S1481.",Remove this unused "element" local variable.(àÉáâúÿÿÿÿ
+E	java:S1060"+Replace this use of System.out by a logger.(‡˜èşÿÿÿÿ

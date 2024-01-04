@@ -1,0 +1,15 @@
+
+u
+java:S1192"SDefine a constant instead of duplicating this literal "This is m1 method." 3 times.(•ìÉåÿÿÿÿÿ8ÊÅĞúÉ1
+u
+java:S1192"SDefine a constant instead of duplicating this literal "This is m2 method." 3 times.(€ôìÔÿÿÿÿÿ8ÊÅĞúÉ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ã¶Å8ËÅĞúÉ1
+L	java:S106"+Replace this use of System.out by a logger.(•ìÉåÿÿÿÿÿ8ÒÅĞúÉ1
+L	java:S106"+Replace this use of System.out by a logger.(€ôìÔÿÿÿÿÿ8ÒÅĞúÉ1
+L	java:S106"+Replace this use of System.out by a logger.(•ìÉåÿÿÿÿÿ8ÓÅĞúÉ1
+L	java:S106"+Replace this use of System.out by a logger.(€ôìÔÿÿÿÿÿ8ÔÅĞúÉ1
+\
+java:S1161!":Add the "@Override" annotation above this method signature(Ø‘éàúÿÿÿÿ8¯ÅãúÉ1
+L	java:S106""+Replace this use of System.out by a logger.(±ÄÍÑşÿÿÿÿ8×ÅĞúÉ1
+L	java:S106)"+Replace this use of System.out by a logger.(•ìÉåÿÿÿÿÿ8×ÅĞúÉ1
+L	java:S106-"+Replace this use of System.out by a logger.(€ôìÔÿÿÿÿÿ8ÖšÚúÉ1
