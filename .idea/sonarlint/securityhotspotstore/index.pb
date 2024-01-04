@@ -107,3 +107,11 @@ b
 2src/java1_8_newfeaturesbydurga/Innerclassdemo.java,c\a\ca3688b4957590ac1afb3848ce248d617b857375
 U
 %src/java1_8_newfeaturesbydurga/I.java,2\c\2c5f3ec5fae2ca8ac1f9f5f740e724b25d8bb92d
+Y
+)src/java1_8_newfeaturesbydurga/Movie.java,4\9\49f334a6d6466666d56890c8fd8b36abe83f418a
+`
+0src/java1_8_newfeaturesbydurga/ConsumerDemo.java,c\f\cfa9e7d812ed9c8bf8742459e8a075d4d24f868f
+`
+0src/java1_8_newfeaturesbydurga/SupplierDemo.java,5\8\58a6c9e47a64971bdbb185fd1cd27e6c8fb3517e
+c
+3src/java1_8_newfeaturesbydurga/BiPredicateDemo.java,8\9\896ec7f3f4bcfeb21f7473031f1a512366b8fb7f
