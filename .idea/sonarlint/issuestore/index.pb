@@ -122,3 +122,7 @@ L
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+O
+src/practice/SelectionSort.java,e\8\e83da0f8c3111864fbe796688072e9c29547f452
+O
+src/practice/InsertionSort.java,6\f\6fbf66b46fbf8e40a9738813c2e204f671a6eb9f

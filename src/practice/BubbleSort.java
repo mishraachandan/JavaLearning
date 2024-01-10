@@ -17,7 +17,7 @@ public class BubbleSort {
         }
     }
 
-    private static void swap(int[] arr, int i, int i1) {
+    public static void swap(int[] arr, int i, int i1) {
         int temp = arr[i];
         arr[i] = arr[i1];
         arr[i1] = temp;
