@@ -1,0 +1,12 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âîÏÖşÿÿÿÿ8¿Ò­èÈ1
+ƒ
+java:S4165"fRemove this useless assignment; "bankName" already holds the assigned value along all execution paths.(²àÜ¡8à„®èÈ1
+]
+java:S1659"ADeclare "area" and all following declarations on a separate line.(ÛÛ‡8ÁÒ­èÈ1
+P
+java:S1172".Remove this unused method parameter "phoneNo".(±“Ñúÿÿÿÿ8ã„®èÈ1
+L
+java:S1656"/Remove or correct this useless self-assignment.(²àÜ¡8ä„®èÈ1
+G	java:S106"+Replace this use of System.out by a logger.(½İ‰Í8¨ã°èÈ1
+L	java:S106"+Replace this use of System.out by a logger.(¬ø°šıÿÿÿÿ8¨ã°èÈ1

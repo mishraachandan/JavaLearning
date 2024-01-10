@@ -1,0 +1,15 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÒÕÑ¶øÿÿÿÿ8ÅÂçÈ1
+Y
+java:S1854	"<Remove this useless assignment to local variable "myArray5".(ÆÒÓ»8ÈÂçÈ1
+W
+java:S1854";Remove this useless assignment to local variable "myArray".(ğØ[8ÈÂçÈ1
+J
+java:S1481"-Remove this unused "myarray2" local variable.(²Öƒ8ÈÂçÈ1
+H
+java:S1481",Remove this unused "myArray" local variable.(ğØ[8ÈÂçÈ1
+X	java:S125"<This block of commented-out lines of code should be removed.(µÔôø8ÈÂçÈ1
+J
+java:S1481	"-Remove this unused "myArray5" local variable.(ÆÒÓ»8ÈÂçÈ1
+W	java:S125
+"<This block of commented-out lines of code should be removed.(¦»k8ÉÂçÈ1

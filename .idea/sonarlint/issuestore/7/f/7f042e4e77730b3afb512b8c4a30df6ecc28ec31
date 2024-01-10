@@ -1,0 +1,13 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ô¿Ëáıÿÿÿÿ8ùüé˜È1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(…¾©€ûÿÿÿÿ8ùüé˜È1
+]	java:S125"<This block of commented-out lines of code should be removed.(Íåš ÿÿÿÿÿ8°™´™È1
+]	java:S125"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8á¡®™È1
+L	java:S106"+Replace this use of System.out by a logger.(×Ö£«ÿÿÿÿÿ8˜ıé˜È1
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78ëó·™È1
+X	java:S125!"<This block of commented-out lines of code should be removed.(¶—Ø“8¾»·™È1
+G	java:S106("+Replace this use of System.out by a logger.(…ˆ¡•8µĞ¸™È1
+]	java:S125*"<This block of commented-out lines of code should be removed.(î—’øÿÿÿÿ8ëó·™È1
+B
+java:S1068"%Remove this unused "t" private field.(ùÅÒ8ä÷ô˜È1

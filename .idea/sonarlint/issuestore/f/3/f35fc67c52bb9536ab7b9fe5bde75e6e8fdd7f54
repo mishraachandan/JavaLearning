@@ -1,0 +1,6 @@
+
+k
+java:S3014"IRemove this use of "ThreadGroup". Prefer the use of "ThreadPoolExecutor".(Ë£”ôúÿÿÿÿ8ã‡½ÜÈ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±Î›ª8ä‡½ÜÈ1
+G	java:S106"+Replace this use of System.out by a logger.(ˆ¹‘ï8ð‡½ÜÈ1
+L	java:S106"+Replace this use of System.out by a logger.(°é­¤ûÿÿÿÿ8ñ‡½ÜÈ1

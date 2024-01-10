@@ -1,0 +1,14 @@
+
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(œû¿Ø8Ûæ¿1
+]	java:S125"<This block of commented-out lines of code should be removed.(âäÅàÿÿÿÿÿ8ÂÒÚæ¿1
+L	java:S106-"+Replace this use of System.out by a logger.(²ÄÓ«ıÿÿÿÿ8Ûæ¿1
+d
+java:S1128"BRemove this unused import 'org.apache.poi.ss.formula.functions.T'.(‚å×‘şÿÿÿÿ8¥çàæ¿1
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8¥çàæ¿1
+S
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8¥çàæ¿1
+X
+java:S1128
+"6Remove this unused import 'java.util.StringTokenizer'.(ÈÄ¬ñşÿÿÿÿ8¥çàæ¿1
