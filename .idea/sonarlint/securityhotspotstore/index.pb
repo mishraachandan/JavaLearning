@@ -115,3 +115,10 @@ Y
 0src/java1_8_newfeaturesbydurga/SupplierDemo.java,5\8\58a6c9e47a64971bdbb185fd1cd27e6c8fb3517e
 c
 3src/java1_8_newfeaturesbydurga/BiPredicateDemo.java,8\9\896ec7f3f4bcfeb21f7473031f1a512366b8fb7f
+Q
+!src/practice/FibonacciSeries.java,4\a\4ac601700e3371434f66232ab5c4df280df3f11e
+L
+src/practice/BubbleSort.java,b\a\baa5ec29ec4bee0f0542cf5b0a178229e1758f2f
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
