@@ -46,7 +46,5 @@ public class Streams {
         String element = listOfStrings.stream().skip(3).toList().get(0);
         String elementList = listOfStrings.stream().skip(3).toList().toString();
         System.out.println(elementList);
-
-        //for dummy commit
     }
 }
