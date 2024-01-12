@@ -126,3 +126,17 @@ O
 src/practice/SelectionSort.java,e\8\e83da0f8c3111864fbe796688072e9c29547f452
 O
 src/practice/InsertionSort.java,6\f\6fbf66b46fbf8e40a9738813c2e204f671a6eb9f
+J
+src/practice/Solution.java,b\d\bde6efc71b504876593c5607cb10889a06f1bd58
+M
+src/practice/SecondSmall.java,1\9\19866695883a09292bc6c6df1e56c33572c91908
+M
+src/interviewseries/Test.java,c\d\cdd87e4f77faf67a6d6867916d7777bd6136ff19
+M
+src/interviewseries/Base.java,7\0\705138b2f9e13299c3d5b7d315663809cb818d58
+V
+&src/interviewseries/TestInterface.java,f\9\f971bbc772694fdbdcc4eca9e40ef82f543054c9
+O
+src/practice/InterviewTest.java,f\d\fde910e2540bd1909bd96b6716a3a3844b03420c
+O
+src/practice/NumberPrinter.java,9\1\91a9235083f7d28a4b1b9a1b68fa876c715a35e5
