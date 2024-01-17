@@ -144,3 +144,9 @@ X
 (src/practice/collections/Footballer.java,1\1\11e24ef210b425319c9f63de60ee67cebe931071
 U
 %src/practice/collections/Auction.java,3\c\3ca48c1ccee3bc6327fd3cfa33dd298dad5c8f45
+Q
+!src/practice/LongestSubarray.java,c\e\ce009fbf732e14e5001b3c401c41ba05b79834ed
+Q
+!src/practice/LongestSubArray.java,2\7\27df98cc63706946a0342c4ebb54a65def09508b
+O
+src/practice/AllSubStrings.java,b\d\bd5aec1f4a623744b00ac62bae266215a685d8a4
