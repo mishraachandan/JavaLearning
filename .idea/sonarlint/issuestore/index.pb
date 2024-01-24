@@ -156,3 +156,13 @@ E
 src/practice/TUF.java,1\3\13a60f9e26d9214e809568764089d950df4ff81c
 U
 %src/practice/LongestCommonPrefix.java,6\3\63eab28fa07c5a253fbd476778c95f73019c71ce
+[
++src/java8InterviewCoding/EvenNumInList.java,2\4\2478477da69cd52b8d3a47165500e0ef9f7a1cef
+^
+.src/java8InterviewCoding/NumStartingWith1.java,0\a\0ab2cbd9c647202ea47ea473f809721a6958753b
+`
+0src/java8InterviewCoding/DuplicateByStreams.java,d\2\d2bbbe44a3e0741b7ad0ec26538f7f578de60771
+^
+.src/java8InterviewCoding/FindFirstElement.java,8\8\884f22edf0a5fba07cfdeb14215fcb5b2351335c
+a
+1src/java8InterviewCoding/TotalElementPresent.java,8\4\84ab043fc6c847ba28db0006233b93077817c5de
