@@ -166,3 +166,5 @@ U
 .src/java8InterviewCoding/FindFirstElement.java,8\8\884f22edf0a5fba07cfdeb14215fcb5b2351335c
 a
 1src/java8InterviewCoding/TotalElementPresent.java,8\4\84ab043fc6c847ba28db0006233b93077817c5de
+g
+7src/java8InterviewCoding/FirstNonRepeatedCharacter.java,0\7\073989380285a7452f5c6bcfae7a11853f795570

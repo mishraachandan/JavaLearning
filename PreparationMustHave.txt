@@ -1,0 +1,41 @@
+Pending Items for Preparation::
+
+1> Multithreading Enhancement Vedio By DurgaSoft.
+2> Java 1.8 Newfeatuures Revision By DDurga
+
+3> Streams in Java By Durga.  >>  Completed the vedio
+
+4 > Basic Java all..
+
+
+5>> Spring Tutorial >> ENgineering Digest playlist. Also SpringBoot
+
+6>> Mysql >> Yahoo baba pplaylist
+
+7>> Git Revision 
+
+8>> LeetCode >> Kunal, PepCoding and Striver. (100 questions.)  :: In Progresss. 
+
+9>> Kafka Basics >> Bonus.. By Engineering Digest
+
+10>> Microservices >> Durgest Playlist
+
+11>> Spring Mvc >> Learn with Durgest and Progrank
+
+12 >> Jdbc >> Navin Reddy
+
+13 >> Redis or Caching >> ?? Bonus
+
+14 >> Junit >> Dinesh Varyani
+
+15 >> System Design >> Engineering Digest/ Gaurav
+
+16 >> Docker / Kubernates >> Bonus?? 
+
+17 >> Swagger Implementation
+
+18 >> Linux Basics >> KubeSimplify.
+
+19 >> Design Pattern in Java using Genie Ashwani.
+
+20 >> 
