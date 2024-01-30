@@ -1,14 +1,14 @@
 Pending Items for Preparation::
 
 1> Multithreading Enhancement Vedio By DurgaSoft.
+
 2> Java 1.8 Newfeatuures Revision By DDurga
 
 3> Streams in Java By Durga.  >>  Completed the vedio
 
 4 > Basic Java all..
 
-
-5>> Spring Tutorial >> ENgineering Digest playlist. Also SpringBoot
+5>> Spring Tutorial >> Engineering Digest playlist. Also SpringBoot.
 
 6>> Mysql >> Yahoo baba pplaylist
 
@@ -20,7 +20,7 @@ Pending Items for Preparation::
 
 10>> Microservices >> Durgest Playlist
 
-11>> Spring Mvc >> Learn with Durgest and Progrank
+11>> Spring Mvc >> https://www.youtube.com/watch?v=qHerCgPQ2e8 // https://www.youtube.com/watch?v=-AH4yV2FGwM&t=4s
 
 12 >> Jdbc >> Navin Reddy
 
@@ -38,4 +38,13 @@ Pending Items for Preparation::
 
 19 >> Design Pattern in Java using Genie Ashwani.
 
-20 >> 
+20 >> SOLID Principles
+
+21 >> Spring Hibernate  // bonus not priority
+
+22 >> Pagination
+
+23 >> Spring Data Jpa(Imp)  >> https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa // and the playlist.
+
+
+

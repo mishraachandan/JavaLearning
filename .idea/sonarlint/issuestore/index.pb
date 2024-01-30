@@ -168,3 +168,5 @@ a
 1src/java8InterviewCoding/TotalElementPresent.java,8\4\84ab043fc6c847ba28db0006233b93077817c5de
 g
 7src/java8InterviewCoding/FirstNonRepeatedCharacter.java,0\7\073989380285a7452f5c6bcfae7a11853f795570
+G
+PreparationMustHave.txt,d\7\d7102bb2af41e78d4fd095d60efcada18e82a873
