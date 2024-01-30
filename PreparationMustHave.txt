@@ -44,7 +44,11 @@ Pending Items for Preparation::
 
 22 >> Pagination
 
-23 >> Spring Data Jpa(Imp)  >> https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa // and the playlist.
+23 >> Spring Data Jpa(Imp)  >> https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa // and the playlist
+from java guides saved in youtube playlist.
+
+
+24 >> Spring mvc course intro >> by selenuim express (only if time permits.)
 
 
 
