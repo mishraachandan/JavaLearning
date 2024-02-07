@@ -1,3 +1,9 @@
 
-1
-java:S1700"Rename field "venue"(“ÌÅ8“»ºšÈ1
+L	java:S106""+Replace this use of System.out by a logger.(ó¿œêüÿÿÿÿ8˜¼¯¦Ø1
+]	java:S125!"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8™¼¯¦Ø1
+]	java:S125#"<This block of commented-out lines of code should be removed.(¯Ç˜™øÿÿÿÿ8™¼¯¦Ø1
+G	java:S106*"+Replace this use of System.out by a logger.(À‡ûí8š¼¯¦Ø1
+L	java:S106."+Replace this use of System.out by a logger.(ÈÁ°ïùÿÿÿÿ8š¼¯¦Ø1
+L	java:S1061"+Replace this use of System.out by a logger.(²´šúÿÿÿÿ8š¼¯¦Ø1
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8œ¼¯¦Ø1

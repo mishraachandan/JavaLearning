@@ -3,10 +3,27 @@ package java1_8_newfeaturesbydurga;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.List;
 
 public class Employee {
     String name;
     int eno;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public int getEno() {
+        return eno;
+    }
+
+    public void setEno(int eno) {
+        this.eno = eno;
+    }
 
     public Employee(String name, int eno){
         this.name = name;
@@ -41,5 +58,6 @@ class Test{
         System.out.println(employees);
 
         System.out.println(employees.get(1));
+
     }
 }
