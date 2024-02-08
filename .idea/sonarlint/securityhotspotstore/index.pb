@@ -174,3 +174,9 @@ d
 4src/java8InterviewCoding/EmployeeSortingExample.java,4\c\4ccf2c48916fd96d17ca7864c22c7be168fbe2fb
 a
 1src/multithreading/marriageexp/WeedingResult.java,a\c\ac3177cb5d533fb586b15bfeafb38e496442d50f
+V
+&src/java8InterviewCoding/TreeTest.java,2\2\228820d7dc609bd2251c4d5e322949c3d1d2ba0b
+K
+src/jaishlearnings/GFG.java,a\e\ae2c35f450b399339ab9d0eefdd8a9b865ce7d64
+M
+src/randomLearning/Test1.java,3\a\3a813fe6c7f0db43278554b2c0dda393224d42a7
